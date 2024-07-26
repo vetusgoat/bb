@@ -1,0 +1,9 @@
+{
+  "1028617846340735048": {
+    "setVanityMessage": "**Dziękujemy** za ustawienie vanity w statusie <a:krynica_blush2:1248293769904783383>",
+    "deleteVanityMessage": null,
+    "checkPhrase": "testowevanity",
+    "targetChannelId": "1266240518426198047",
+    "roleId": "1266253354364047444"
+  }
+}
